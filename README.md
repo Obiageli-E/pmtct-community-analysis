@@ -70,7 +70,7 @@ Full analysis and findings available in the
 
 ## 👩‍💻 About Me
 
-Aspiring Data Analyst passionate about using data visualization and 
+Junior Data Analyst passionate about using data visualization and 
 analytics to uncover insights that support health-focused and social 
 impact initiatives.
 
