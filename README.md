@@ -61,6 +61,13 @@ number of LGAs accounting for the majority of tested individuals
 
 ---
 
+## 📁 Project Structure
+
+- 📁 `charts/` → Python-generated visualisations
+- 📁 `scripts/` → Python analysis scripts
+- 📁 `docs/` → Full project report
+- 📄 `README.md`
+
 ## 📄 Project Report
 
 Full analysis and findings available in the 
